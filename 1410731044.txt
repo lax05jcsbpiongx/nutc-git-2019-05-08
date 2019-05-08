@@ -1,0 +1,5 @@
+姓名：李泓毅
+學號：1410731044
+此次測驗使用到哪些指令：fork,clone,branch,checkout,commit,merge,push,add
+學習到的內容：學到如何將github的檔案下載下來,以及將檔案進行修改並上傳。
+建議：此類型的課程可以再多一點
