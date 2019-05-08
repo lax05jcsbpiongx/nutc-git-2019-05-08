@@ -1,0 +1,5 @@
+﻿姓名：鄧至淇	
+學號：1410731050
+此次測驗使用到哪些指令：git clone,git branch,git commit,git checkout,git merge,git push,git pull
+學習到的內容：學到如何使用git，或許會成為我未來吃飯的技能。
+建議：無
