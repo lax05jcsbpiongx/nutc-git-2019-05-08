@@ -1,0 +1,18 @@
+姓名:張湘昀
+學號:1410731020
+此次測驗使用到哪些指令:
+git config
+git init
+git add
+git commit
+git status
+git branch
+git merge
+git checkout
+git diff
+git remote
+git push
+git clone
+git pull
+學習到的內容:git常用指令
+建議:希望可以給簡報檔案
