@@ -1,0 +1,5 @@
+    姓名：陳姿合	
+    學號：1410731010
+    此次測驗使用到哪些指令：git clone / git branch / gir merge / git checkout /  git push / git pull
+    學習到的內容：學到使用git，跟以往程式來說有很大的不同。
+    建議：可以講慢一點，因為有點來不及，也需要做思考。
