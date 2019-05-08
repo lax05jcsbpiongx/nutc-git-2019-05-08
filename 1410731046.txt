@@ -1,0 +1,19 @@
+姓名：張凱棋
+學號：1410731046
+此次測驗使用到哪些指令：
+
+git checkout -b abc
+cat 1410731046.txt
+vim 1410731046.txt
+git add 1410731046.txt
+git commit 
+git checkout master
+git merge abc
+
+學習到的內容：
+
+學習到在企業中常用的基本Git指令，以及創辦Github帳號
+
+建議：
+
+詳細講解指令後，希望可以在切換廣播前再約略講一次步驟
