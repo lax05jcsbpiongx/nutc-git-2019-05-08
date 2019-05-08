@@ -1,0 +1,14 @@
+姓名：賴信安
+學號：1410731028
+此次測驗使用到哪些指令：
+git clone 網址
+git branch -c "名字"
+git checkout "名字"
+git add 學號
+git commit -m "訊息"
+git merge --no--ff "名字"
+git remote add "名字" 網址
+git push -u "名字" "分支名字"
+學習到的內容：只知道意思，沒記住指令。
+建議：我想你應該不會為了聾人而製作說明書給他就是了。
+因為我是自學的…
