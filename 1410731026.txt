@@ -1,0 +1,10 @@
+姓名：陳世峻
+學號：1410731026
+此次測驗使用到哪些指令：
+git init
+git add dog
+git status
+git commit -m ABC
+git checkout master
+學習到的內容：這個課程學習到git的一些功能，簡單明瞭的介面讓我增加信心，也還可以瀏覽別人的文章真的覺得很有趣。
+建議：希望還有更多類似的課程能夠接觸。
