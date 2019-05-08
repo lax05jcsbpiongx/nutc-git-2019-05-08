@@ -1,0 +1,7 @@
+姓名：王家和
+
+學號：1410731024
+
+此次測驗使用到哪些指令：git status、git config --list、git log、git commit、git branch -C "分支名稱"、push、clone、cd、rm
+學習到的內容：GIT的使用、到github下載程式碼、透過github協作程式、修改內容
+建議：學到很多有趣的東西，希望還有更多類似的課。
