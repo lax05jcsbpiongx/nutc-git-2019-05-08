@@ -1,0 +1,5 @@
+姓名：李怡婷
+學號：1410731004	
+此次測驗使用到哪些指令：init add rm commit status branch checkout merge touch romote push pull clone fetch
+學習到的內容：學習git的基本操作/初始設定/分支/
+建議：git很有趣！印象最深刻的就是能夠把檔案藏起來，業師也很ｆｕｎｎｙ，但希望有些操作可以再說明清楚一點
