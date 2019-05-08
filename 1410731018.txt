@@ -1,0 +1,6 @@
+姓名：周芊羽
+學號：1410731018
+此次測驗使用到哪些指令：init add rm commit status log diff branch checkout merge remote push pull clone fetch
+學習到的內容git的基本操作 藏檔案 使用github下載文件修改並上傳
+建議：很新奇 講課內容可以再放慢一些 到後面有點跟不上
+
