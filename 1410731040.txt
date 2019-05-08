@@ -1,0 +1,5 @@
+﻿姓名：簡名益
+學號：1410731040
+此次測驗使用到哪些指令： clone 、branch 、checkout 、commit 、add 、merge 、push 、pull 
+學習到的內容：如何下載別人檔案 及上傳自己的資料
+建議：講慢一點 操作時間多一點
