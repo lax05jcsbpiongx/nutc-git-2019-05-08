@@ -1,0 +1,9 @@
+姓名：陳亮吟
+
+學號：1410731008
+
+此次測驗使用到哪些指令：git branch -c、git clone、git checkout、git commit、git push
+
+學習到的內容：將他人的東西下載後，修改、更新，再上傳到github。
+
+建議：這個課程非常有趣，我覺得可以多上一點，兩次上課後面有點趕。
