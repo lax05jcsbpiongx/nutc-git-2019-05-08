@@ -1,0 +1,5 @@
+姓名：梁宇宏
+學號：1410731032
+此次測驗使用到哪些指令：config  init  add   commit    branch  checkout   merge   push  clone
+學習到的內容：git的基礎和github的應用
+建議：教了很多東西，讓我學了很多。
