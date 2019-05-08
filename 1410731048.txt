@@ -2,4 +2,4 @@
 學號:1410731048
 此次測驗使用到哪些指令:remote,clone,branch,checkout,commit,add,merge,push,pull
 學習到的內容:學習到如何協同合作和管理資料
-建議:希望能夠更清楚的講解git 的結構
+建議:希望能夠更清楚的講解git的結構
